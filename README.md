@@ -1,6 +1,7 @@
 # FACTWISE ASSIGNMENT<br>
 The Project consist of APIs for project planning and management . It offers a set of APIs for various project-related tasks and includes three apps: User, Team, and Board. Below, I have list the Methods it contains-<br>
 <br>
+<br> The Folder contains Factwise folder which is the root folder.
 #User Application<br>
 <br>Functions
 • Create User: Create a new user in the system.<br>
